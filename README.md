@@ -1,10 +1,10 @@
-### Hi there 👋, Fouad lizoul
-#### Design and Development
+# Fouad lizoul
 ![Design and Development](https://media.licdn.com/dms/image/D4E16AQGooHFhFfhUAw/profile-displaybackgroundimage-shrink_350_1400/0/1708460868665?e=1718236800&v=beta&t=CX-5fp2iXwpTZUGtLeonNd6K9xwXrB4HaO9UjJS1OP4)
-
 I am Fouad from Morocco, and I am a front-end developer for websites. I enjoy learning languages and frameworks like React and Next.js, and I also enjoy designing interfaces on Figma.
 
-Skills: Next / REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛ React
+* 💻 HTML,CSS ,JS
 
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning Three.js 
